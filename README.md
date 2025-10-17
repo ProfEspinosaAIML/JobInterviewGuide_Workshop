@@ -1,5 +1,5 @@
 
-# 🧠📚 JobInterviewGuide_Workshop
+# 🧠📚 Job InterviewGuide Workshop
 
 ## 🎯 Workshop Objectives
 This workshop helps students **prepare for a Junior Data Scientist job interview** by combining **machine learning review** with **AI-driven self-assessment**.  
